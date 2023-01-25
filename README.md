@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Shri! I'm a Caltech graduate (Class of 2022) looking to work on projects related to data science, mathematical modelling, simulation, and/oe applied AI/ML. 
-----------------------
+I'm Shri! I'm a Caltech graduate (Class of 2022) looking to work on projects related to data science, mathematical modelling, simulation, and/or applied AI/ML. 
+
+--------------
 Blurbs for each Repo:
 
 LangevinSim & Microrheology -- Data Analysis for a Princeton Uni research group; I made these in the summer of 2019.
