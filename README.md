@@ -1,6 +1,8 @@
 ### Hi there 👋
+I'm Shri! I'm a Caltech graduate (Class of 2022) looking to work on projects related to data science, mathematical modelling, simulation, and applied AI/ML. 
 
-Blurb On Each Repo:
+Blurbs for each Repo:
+
 LangevinSim & Microrheology -- Data Analysis for a Princeton Uni research group; I made this in 2019 summer.
 
 Algorithms -- Personal practice area for implementing algorithms in various settings. Please refer to this for my most recent coding style / structure. A greater explanation on each of the projects are provided in the ReadME files of this repo.
